@@ -5,6 +5,12 @@
   <Version>0.0.1+snapshot</Version>
   <Packaging>module</Packaging>
   <LifecycleClass>DSW.Lifecycle</LifecycleClass>
+   <Dependencies>
+  	<ModuleReference>
+      <Name>MDX2JSON</Name>
+      <Version>0.0.1+snapshot</Version>
+    </ModuleReference>
+  </Dependencies>
   <Resources>
     <Resource Name="DSW.PKG">
     </Resource>
