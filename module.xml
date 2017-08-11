@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Document name="DSW.MODULE"><Module>
+ <Name>DSW</Name>
+  <Version>0.0.1+snapshot</Version>
+  <Packaging>module</Packaging>
+  <LifecycleClass>DSW.Lifecycle</LifecycleClass>
+  <Resources>
+    <Resource Name="DSW.PKG">
+    </Resource>
+  </Resources> 
+</Module>
+</Document></Export>
